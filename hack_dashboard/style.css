@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+
+
+:root{
+	--main-background: #fff;
+	--secondary-color: #af5b2d;
+	--third-color: #000;
+	--fourth-color:#f9f6f4;
+    box-sizing: border-box;
+    font-family: 'Marcellus', serif;
+    padding:0;
+    margin:0;
+    border:0
+}
+
+input[type=submit], .secondary{
+    background-color: var(--secondary-color);
+}
+
+.background{
+	background-color: var(--main-background);
+}
+
+.secondary{
+	background-color: var(--secondary-color);
+}
+
+.third{
+	background-color: var(--third-color);
+}
+
+.fourth{
+	background-color: var(--fourth-color);
+}
+
+.text-secondary{
+    color: var(--secondary-color);
+}
+
+.border-secondary{
+	border-radius: 1em;
+	border-width:0.2em;
+	border-color: var(--secondary-color);
+}
+
+.text-secondary{
+    color: var(--secondary-color);
+}
+
+.border-secondary{
+    border-radius: 0;
+    border-color: var(--secondary-color);
+}
+
+.background-select{
+    background-image: url("img/background.png") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}

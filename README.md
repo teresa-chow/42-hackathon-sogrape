@@ -30,19 +30,19 @@ git clone git@github.com:teresa-chow/42-hackathon-sogrape.git
 
 2. Start Apache and MySQL in XAMPP
 
-   - Launch XAMPP Control Panel;
-   - Click <kbd>Start</kbd> next to Apache and MySQL.
+   - Launch XAMPP Control Panel
+   - Click <kbd>Start</kbd> next to Apache and MySQL
 
 3. Configure your project
 
-   - Copy your project files to the XAMPP web server directory (usually `C:\xampp\htdocs\hack_dashboard` on Windows);
-   - Edit your project configuration files if necessary.
+   - Copy your project files to the XAMPP web server directory (usually `C:\xampp\htdocs\hack_dashboard` on Windows)
+   - Edit your project configuration files if necessary
 
 4. Install Python and required packages
 
    - Download and install [Python](https://www.python.org/downloads/);
-   - Open the Windows command prompt;
-   - Navigate to your project directory;
+   - Open the Windows command prompt
+   - Navigate to your project directory
    - Install the required packages using pip
 
       ```bash
@@ -61,20 +61,20 @@ git clone git@github.com:teresa-chow/42-hackathon-sogrape.git
 
 1. Start XAMPP
 
-   - Launch XAMPP Control Panel;
-   - Click <kbd>Start</kbd> next to Apache.
+   - Launch XAMPP Control Panel
+   - Click <kbd>Start</kbd> next to Apache
   
-2. Run an SQL server instance and use our `mydb_wine.sql` file – _this will ensure you are connected to a database that our program is compatible with. It can also run on any web server/host._
+2. Run an SQL server instance and use our [mydb_wine.sql](./mydb_wine.sql) file – _this will ensure you are connected to a database that our program is compatible with; it can also run on any web server/host_
 
 3. Access your PHP website
 
-   - Ensure XAMPP is running;
-   - Click <kbd>Admin</kbd> button to acces the root/index of our website.
+   - Ensure XAMPP is running
+   - Click <kbd>Admin</kbd> button to acces the root/index of our website
 
 4. Run the Python code
 
-   - Open a terminal/command prompt;
-   - Navigate to your project directory;
+   - Open a terminal/command prompt
+   - Navigate to your project directory
    - Execute your Python script using the following command
    
       ```bash

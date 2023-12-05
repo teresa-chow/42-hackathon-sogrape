@@ -31,7 +31,7 @@ git clone git@github.com:teresa-chow/42-hackathon-sogrape.git
 2. Start Apache and MySQL in XAMPP
 
    - Launch XAMPP Control Panel;
-   - Click "Start" next to Apache and MySQL.
+   - Click <kbd>Start</kbd> next to Apache and MySQL.
 
 3. Configure your project
 
@@ -43,13 +43,13 @@ git clone git@github.com:teresa-chow/42-hackathon-sogrape.git
    - Download and install [Python](https://www.python.org/downloads/);
    - Open the Windows command prompt;
    - Navigate to your project directory;
-   - Install the required packages using pip:
+   - Install the required packages using pip
 
       ```bash
       python -m pip install -r requirements.txt
       ```
 
-       or install them individually using:
+       or install them individually using
 
       ```bash
       pip install <package>
@@ -62,28 +62,26 @@ git clone git@github.com:teresa-chow/42-hackathon-sogrape.git
 1. Start XAMPP
 
    - Launch XAMPP Control Panel;
-   - Click "Start" next to Apache.
+   - Click <kbd>Start</kbd> next to Apache.
   
-2. Run an SQL server instance and use our 'mydb_wine.sql' file
-   This will ensure you are connected to a database that our program is compatible with. It can also run on any web server/host.
+2. Run an SQL server instance and use our `mydb_wine.sql` file – _this will ensure you are connected to a database that our program is compatible with. It can also run on any web server/host._
 
-4. Access your PHP website
+3. Access your PHP website
 
    - Ensure XAMPP is running;
-   - Click "Admin" button to acces the root/index of our website.
+   - Click <kbd>Admin</kbd> button to acces the root/index of our website.
 
-5. Run the Python code
+4. Run the Python code
 
    - Open a terminal/command prompt;
    - Navigate to your project directory;
-   - Execute your Python script using the following command:
+   - Execute your Python script using the following command
    
       ```bash
       python main.py
       ```
 
-6. Refresh the dashboard using the button
-    All the data of the SQL will appear.
+5. Refresh the dashboard using the button – _all the data of the SQL will appear_
 
 ___
 

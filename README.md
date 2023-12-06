@@ -11,6 +11,13 @@ ___
 
 </br>
 
+<div>
+    <img src="./presentation_materials/img/login.png" alt="Login screen" style="width:49%">
+    <img src="./presentation_materials/img/user_view.png" alt="Webscraper view" style="width:49%">
+</div>
+
+</br>
+
 # :compass: Usage
 ## Prerequisites
 

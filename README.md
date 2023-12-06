@@ -5,7 +5,7 @@ _Web scraping website developed in a 3-day period, during the Hackathon promoted
 ___
 
 ### Table of contents
-[Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Acknowledgements](#raised_hands-acknowledgements) · [License](#license)
+[Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Credits](#credits) · [License](#license)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 </br>
 
-# :raised_hands: Acknowledgements
+### Credits
 Bernardo Esteves [@berestv](https://github.com/berestv)
 
 Bruno Lopes [@brpereiraa](https://github.com/brpereiraa)

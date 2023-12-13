@@ -5,7 +5,7 @@ _Web scraping website developed in a 3-day period, during the Hackathon promoted
 ___
 
 ### Table of contents
-[Challenge]([#rocket-challenge]) · [Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Credits](#credits) · [License](#license)
+[Challenge](#rocket-challenge) · [Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Credits](#credits) · [License](#license)
 
 ___
 

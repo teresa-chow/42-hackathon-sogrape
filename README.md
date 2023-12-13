@@ -5,16 +5,28 @@ _Web scraping website developed in a 3-day period, during the Hackathon promoted
 ___
 
 ### Table of contents
-[Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Credits](#credits) · [License](#license)
+[Challenge]([#-challenge]) · [Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Credits](#credits) · [License](#license)
 
 ___
 
 </br>
 
+# 🚀 Challenge
+
+Implementing a web scraping system able to collect wine prices from national online stores on a daily basis, and to develop an interactive and intuitive interface to display the same data.
+
+</br>
+
+## Approach
+
+Automated web scraping website that would allow Sogrape’s employees to easily compare pricing between several retailers for the same product, and to keep track of price fluctuations over time, in an automated manner.
+
 <div>
     <img src="./presentation_materials/img/login.png" alt="Login screen" style="width:49%">
     <img src="./presentation_materials/img/user_view.png" alt="Webscraper view" style="width:49%">
 </div>
+
+___
 
 </br>
 

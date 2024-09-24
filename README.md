@@ -1,5 +1,5 @@
 # Sogrape Webscraper
-![Sogrape × 42 Porto: Hackathon](https://img.shields.io/badge/Sogrape%20×%2042%20Porto-Hackathon-%23af5b2c)
+[![Sogrape × 42 Porto: Hackathon](https://img.shields.io/badge/Sogrape%20×%2042%20Porto-Hackathon-%23af5b2c)](https://sogrape.com/pt)
 
 _Web scraping website developed in a 3-day period, during the Hackathon promoted by Sogrape and 42 Porto (23 - 26 Oct. 2023)._
 ___

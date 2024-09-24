@@ -5,13 +5,13 @@ _Web scraping website developed in a 3-day period, during the Hackathon promoted
 ___
 
 ### Table of contents
-[Challenge](#rocket-challenge) · [Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Credits](#credits) · [License](#license)
+[Challenge](#boom-challenge) · [Prerequisites](#prerequisites) · [Installation](#installation) · [Usage](#usage) · [Credits](#credits) · [License](#license)
 
 ___
 
 </br>
 
-# :rocket: Challenge
+# 💥 Challenge
 
 Implementing a web scraping system able to collect wine prices from national online stores on a daily basis, and to develop an interactive and intuitive interface to display the same data.
 
